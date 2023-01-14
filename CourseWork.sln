@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGroupsUI", "CourseWork\StudentGroupsUI.csproj", "{5CCB324D-1CFE-48C5-AC21-FECD08539CCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGroupsLibrary", "StudentGroupsLibrary\StudentGroupsLibrary.csproj", "{24AED1B4-0905-4FFA-A014-FBD05E960B71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CCB324D-1CFE-48C5-AC21-FECD08539CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CCB324D-1CFE-48C5-AC21-FECD08539CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CCB324D-1CFE-48C5-AC21-FECD08539CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CCB324D-1CFE-48C5-AC21-FECD08539CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24AED1B4-0905-4FFA-A014-FBD05E960B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24AED1B4-0905-4FFA-A014-FBD05E960B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24AED1B4-0905-4FFA-A014-FBD05E960B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24AED1B4-0905-4FFA-A014-FBD05E960B71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3C45968-A5A8-449D-ACF2-C07A4E5E12EB}
+	EndGlobalSection
+EndGlobal

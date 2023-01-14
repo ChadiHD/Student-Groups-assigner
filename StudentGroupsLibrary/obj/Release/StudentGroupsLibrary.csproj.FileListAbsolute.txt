@@ -1,0 +1,17 @@
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\StudentGroupsLibrary\bin\Release\StudentGroupsLibrary.dll
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\StudentGroupsLibrary\bin\Release\StudentGroupsLibrary.pdb
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\StudentGroupsLibrary\bin\Release\Dapper.dll
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\StudentGroupsLibrary\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\StudentGroupsLibrary\bin\Release\System.Security.AccessControl.dll
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\StudentGroupsLibrary\bin\Release\System.Security.Permissions.dll
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\StudentGroupsLibrary\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\StudentGroupsLibrary\bin\Release\Dapper.xml
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\StudentGroupsLibrary\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\StudentGroupsLibrary\bin\Release\System.Security.AccessControl.xml
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\StudentGroupsLibrary\bin\Release\System.Security.Permissions.xml
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\StudentGroupsLibrary\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\StudentGroupsLibrary\obj\Release\StudentGroupsLibrary.csproj.AssemblyReference.cache
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\StudentGroupsLibrary\obj\Release\StudentGroupsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\StudentGroupsLibrary\obj\Release\StudentGroupsLibrary.csproj.CopyComplete
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\StudentGroupsLibrary\obj\Release\StudentGroupsLibrary.dll
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\StudentGroupsLibrary\obj\Release\StudentGroupsLibrary.pdb

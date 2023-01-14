@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StudentGroupsLibrary.GlobalConfig">
+    <Position X="4.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAEAAgAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GlobalConfig.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Connection" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="StudentGroupsLibrary.GroupingLogic">
+    <Position X="6.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAgAAAAAAAAAIAAAAAAg=</HashCode>
+      <FileName>GroupingLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentGroupsLibrary.DataAccess.TextConnector" BaseTypeListCollapsed="true">
+    <Position X="2" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAAAAABAAAQ=</HashCode>
+      <FileName>DataAccess\TextConnector.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StudentGroupsLibrary.DataAccess.GroupModel">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAACAAIAAAAAAAAAAAE=</HashCode>
+      <FileName>Models\GroupModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentGroupsLibrary.DataAccess.StudentModel">
+    <Position X="7.25" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAABAAJAAAAAAAACAAAAAAAAAAAAAAgAAAAg=</HashCode>
+      <FileName>Models\StudentModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentGroupsLibrary.DataAccess.TextCnnHelper.TextConnectorProcessor">
+    <Position X="4.75" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAIAAARAAAAAAAIAAAIAAAAAAABgA=</HashCode>
+      <FileName>DataAccess\TextConnectorProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="StudentGroupsLibrary.DataAccess.IDataConnection">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAAAAABAAAQ=</HashCode>
+      <FileName>DataAccess\IDataConnection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="StudentGroupsLibrary.DataType">
+    <Position X="4.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
