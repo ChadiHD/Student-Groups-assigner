@@ -5,3 +5,8 @@ Bulk assign the students to groups.
 Sort the data based on IDs.
 All data is permanently saved in csv files.
 ## Main Viewer Form
+![](assets/MainViewerForm.jpg)
+## Create Student Form
+![](assets/CreateStudentForm.jpg)
+## Create Group Form
+![](assets/CreateGroupForm.jpg)
