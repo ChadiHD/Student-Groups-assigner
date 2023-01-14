@@ -1,0 +1,14 @@
+﻿using StudentGroupsLibrary.DataAccess;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CourseWork
+{
+    public interface IGroupRequester
+    {
+        void GroupComplete(GroupModel model);
+    }
+}

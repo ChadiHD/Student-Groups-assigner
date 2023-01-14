@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CourseWork.CreateGroupForm" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="1.25" Width="2.5" />
+    <Members>
+      <Field Name="AddGroupMemberButton" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="CreateGroupButton" Hidden="true" />
+      <Field Name="DeleteSelectedButton" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="GroupMarkLabel" Hidden="true" />
+      <Field Name="GroupMarkValue" Hidden="true" />
+      <Field Name="GroupMembersListBox" Hidden="true" />
+      <Field Name="GroupNameLabel" Hidden="true" />
+      <Field Name="GroupNameValue" Hidden="true" />
+      <Field Name="HeaderLabel" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="NumberLabel" Hidden="true" />
+      <Field Name="SelectGroupMembers" Hidden="true" />
+      <Field Name="SelectGroupMembersDropDown" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AQEA0AEGkiAABEAAAACIIAAGAAEAAAAIAgAACAAAAAA=</HashCode>
+      <FileName>CreateGroupForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="callingForm" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="availableStudents" />
+      <Field Name="selectedStudents" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CourseWork.CreateStudentForm">
+    <Position X="7.75" Y="1.25" Width="2.25" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Field Name="CreateStudentButton" Hidden="true" />
+      <Field Name="CreateStudentHeaderLabel" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="EmailLabel" Hidden="true" />
+      <Field Name="EmailValue" Hidden="true" />
+      <Field Name="FirstNameLabel" Hidden="true" />
+      <Field Name="FirstNameValue" Hidden="true" />
+      <Field Name="LastNameLabel" Hidden="true" />
+      <Field Name="LastNameValue" Hidden="true" />
+      <Field Name="PhoneNrValue" Hidden="true" />
+      <Field Name="PhoneNumberLabel" Hidden="true" />
+      <Field Name="WeightingMarkLabel" Hidden="true" />
+      <Field Name="WeightingValue" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAABAAABEGAEAABAAACCIAACACAQAAwAAAAAAAAKAAI=</HashCode>
+      <FileName>CreateStudentForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="callingForm" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CourseWork.GroupViewerForm" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="1.25" Width="2.5" />
+    <Members>
+      <Field Name="BulkAssignButton" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="CreateNewGroupButton" Hidden="true" />
+      <Field Name="CreateNewStudentButton" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="GroupRefreshButton" Hidden="true" />
+      <Field Name="GroupsDataGridView" Hidden="true" />
+      <Field Name="GroupSeachButton" Hidden="true" />
+      <Field Name="GroupSearchValue" Hidden="true" />
+      <Field Name="GroupSortButton" Hidden="true" />
+      <Field Name="GroupsTab" Hidden="true" />
+      <Field Name="GroupsViewerLabel" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="RefreshButton" Hidden="true" />
+      <Field Name="StudentsDataGridView" Hidden="true" />
+      <Field Name="StudentSearchButton" Hidden="true" />
+      <Field Name="StudentSearchValue" Hidden="true" />
+      <Field Name="StudentSortButton" Hidden="true" />
+      <Field Name="StudentsTab" Hidden="true" />
+      <Field Name="StudentsTabView" Hidden="true" />
+      <Field Name="StudentsViewerHeaderLabel" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>IQAATACCwCAABAAAEkCKAAYSgBAgAAEgAAEEkAEIADo=</HashCode>
+      <FileName>GroupViewerForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="selectedStudents" />
+      <Field Name="selectedGroups" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.31" />
+  </Class>
+  <Class Name="CourseWork.Program">
+    <Position X="8.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentGroupsLibrary.DataAccess.StudentModel">
+    <Position X="13.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="StudentGroupsLibrary.DataAccess.GroupModel">
+    <Position X="17.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="CourseWork.IGroupRequester">
+    <Position X="10.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IGroupRequester.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CourseWork.IStudentRequester">
+    <Position X="6.25" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IStudentRequester.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

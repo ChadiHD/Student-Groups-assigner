@@ -1,0 +1,6 @@
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\CourseWork\obj\Debug\CourseWork.Form1.resources
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\rollm\Desktop\ComputerScienceAssessments\ThirdYear\CSharp\Visual Studio programming\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
